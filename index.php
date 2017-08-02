@@ -1,5 +1,7 @@
 <?php
 
+    // Here is my hypothetical bug fix I created for bonus points :) hopefully there isn't an actual bug to fix
+
     //check for invalid parameters
 
     if( !isset($_GET['offset'])){
