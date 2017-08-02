@@ -1,6 +1,7 @@
 <?php
 
     // Here is my hypothetical bug fix I created for bonus points :) hopefully there isn't an actual bug to fix
+    // Here is another bug fix, the last one did not appear on Github. Probably because I pushed after merging the branches?
 
     //check for invalid parameters
 
